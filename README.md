@@ -1,2 +1,3 @@
 # cautious-potato
-Highway Sign Maker
+
+SignMaker v2.2 is still in progress... unfortunately.
